@@ -12,7 +12,7 @@
 ---
 
 ## Project Overview
--> This Screen Time Monitor written in **Python and AppleScript** is designed for macOS users who wish to track and limit their daily screen time usage. It is a system that allows the user to view their screen time via graphs and limit their individual app usage. Moreover, it includes a simple and minimalistic interface, styled using **PyQt6, Matplotlib, and QSS (Qt Style Sheet)**, allowing the user to navigate through the app easily. With this, users can become more aware of their computer habits and take action to make them healthier.
+-> This Screen Time Monitor, written in **Python and AppleScript**, is designed for macOS users who wish to track and limit their daily screen time usage. It is a system that allows the user to view their screen time via graphs and limit their individual app usage. Moreover, it includes a simple and minimalistic interface, styled using **PyQt6, Matplotlib, and QSS (Qt Style Sheet)**, allowing the user to navigate through the app easily. With this, users can become more aware of their computer habits and take action to make them healthier.
 
 ---
 
