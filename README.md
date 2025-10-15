@@ -24,7 +24,7 @@
 - App time limits (set by user).
 - Automatically exits applications after they exceed the set time limit.
 - Stores data into SQLite3 database.
-- Minimalistic and user-frieldny interface.
+- Minimalistic and user-friendly interface.
 
 ---
 
@@ -39,11 +39,11 @@
    - service.py - Defines app functionalities.
    - utils.py - Defines functionalities written in AppleScript.
    - view.py - Plots and customizes graphs to be displayed.
-4. shell/ - Contains the Graphical User Interface (GUI)
+4. shell/ - File that contains the Graphical User Interface (GUI)
    - windows.py - Contains code defining interaction logic and templates for each window.
-   - appusagewindow.qss - Contains the Qt Style Sheet for the application usage window.
+   - appusagewindow.qss - Contains the Qt Style Sheet (QSS) for the application usage window.
    - notes.txt - Text file containing different screen time facts.
-5. mainwindow.qss - Contains the Qt Style Sheet for the main window.
+5. mainwindow.qss - Contains the Qt Style Sheet (QSS) for the main window.
 
 ---
 
