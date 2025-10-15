@@ -12,7 +12,7 @@
 ---
 
 ## Project Overview
--> This Screen Time Monitor written in **Python and AppleScript** is designed for macOS users who wish to track and limit their daily screen time usage. It is a system that allows the user to view their screen time via graphs and limit their individual app usage. Moreover, it includes a simple and minimalistic interface styled using **PyQt6, Matplotlib, and QSS (Qt Style Sheet)**, allowing the user to navigate through the app easily. With this, users can become more aware of their computer habits and take action to make them healthier.
+-> This Screen Time Monitor written in **Python and AppleScript** is designed for macOS users who wish to track and limit their daily screen time usage. It is a system that allows the user to view their screen time via graphs and limit their individual app usage. Moreover, it includes a simple and minimalistic interface, styled using **PyQt6, Matplotlib, and QSS (Qt Style Sheet)**, allowing the user to navigate through the app easily. With this, users can become more aware of their computer habits and take action to make them healthier.
 
 ---
 
@@ -21,8 +21,8 @@
 - Tracks application usage daily.
 - Presents calculated screen time usage.
 - Displays usage graphs from matplotlib and different screen time facts.
-- App time limit (set by user).
-- Automatically exits applications after exceeding time limit.
+- App time limits (set by user).
+- Automatically exits applications after they exceed the set time limit.
 - Stores data into SQLite3 database.
 - Minimalistic and user-frieldny interface.
 
@@ -58,7 +58,7 @@
 ### Choose App to Limit
 <img width="675" height="470" alt="Screenshot 2025-10-15 at 8 17 53 PM" src="https://github.com/user-attachments/assets/56c08b3d-0ae7-4723-9b2a-e2d1cfa89066" />
 
-### Set App Limit (In hour(s) and seconds (s))
+### Set App Limit (In Hour(s) and Minute(s))
 <img width="218" height="149" alt="Screenshot 2025-10-15 at 8 18 06 PM" src="https://github.com/user-attachments/assets/a2a2a170-0693-42ab-8a3f-83a0da38c56e" />
 <img width="245" height="148" alt="Screenshot 2025-10-15 at 8 18 21 PM" src="https://github.com/user-attachments/assets/6ad37ece-9b1f-42fc-a4bc-b975fe9ae001" />
 
