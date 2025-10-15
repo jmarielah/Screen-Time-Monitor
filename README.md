@@ -31,18 +31,22 @@
 ## Code Design and Structure
 
 1. main.py - Main part where the app is launched and the main window is displayed with styles applied.
+
 2. core/ - File where the core modules ofthe app are located
    - db.py - Creates a connection with SQLite database.
+
 3. features/ - File that contains all the application logic and functionalities.
    - models.py - Defines data models used throughout the application's development.
    - repository.py - Where data is logged into and retrieved from the database.
    - service.py - Defines app functionalities.
    - utils.py - Defines functionalities written in AppleScript.
    - view.py - Plots and customizes graphs to be displayed.
+
 4. shell/ - File that contains the Graphical User Interface (GUI)
    - windows.py - Contains code defining interaction logic and templates for each window.
    - appusagewindow.qss - Contains the Qt Style Sheet (QSS) for the application usage window.
    - notes.txt - Text file containing different screen time facts.
+
 5. mainwindow.qss - Contains the Qt Style Sheet (QSS) for the main window.
 
 ---
