@@ -1,0 +1,51 @@
+QWidget#centralwidget {
+    background-color:#EDEEF0;
+}
+
+QLabel#screentimelbl{
+    font-family:"Charter";
+    font-size: 128px;
+    color: "#523C3C";
+    border: 0.5px solid #4C4B4B;
+    border-radius: 5px;
+}
+
+QLabel#timelbl{
+    min-width: 120px;
+    min-height: 40px;
+    max-width: 150px;
+    max-height: 50px;
+    font-family: "Charter";
+    font-size: 15px;
+    background-color: "#523C3C";
+    border-radius: 20px;
+    color: "white";
+}
+
+QLabel#textlbl{
+    font-family: "Charter";
+    font-size: 20px;
+    color: "#4C4B4B";
+}
+
+QLabel#notelbl{
+    font-family: "Charter";
+    font-size: 13px;
+    color: "#4C4B4B";
+}
+
+QPushButton#piebtn, QPushButton#limitbtn{
+    color: #523C3C;
+    background-color: "#EDEEF0";
+    border-radius: 10px;
+    border: 1px solid #523C3C;
+    font-family: "Charter";
+    font-size: 16px;
+    padding: 8px 16px;
+}
+
+QPushButton#piebtn:hover, QPushButton#limitbtn:hover{
+    background-color: #523C3C;
+    border: 2px solid #523C3C;
+    color: white;
+}
